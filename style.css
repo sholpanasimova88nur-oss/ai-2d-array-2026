@@ -1,0 +1,9 @@
+body{font-family:Arial;background:#f2f2f2}
+.container,.certificate{
+  width:400px;
+  margin:40px auto;
+  background:white;
+  padding:20px;
+  border-radius:10px;
+}
+button{margin-top:10px}
