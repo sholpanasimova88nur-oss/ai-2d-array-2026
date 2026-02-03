@@ -1,1 +1,1 @@
-# ai-2d-array-2026
+# ai-2d-array
